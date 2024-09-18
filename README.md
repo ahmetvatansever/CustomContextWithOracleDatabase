@@ -1,4 +1,4 @@
-**CustomContextWithOracleDatabase**
+**Oracle Veritabanında “Context”**
 
 Aşağıdaki soruların cevapları için medium makaleme buradan okuyabilirsiniz : https://medium.com/@ahmetvatansever/oracle-veritaban%C4%B1nda-context-2a87c5a90480
 
