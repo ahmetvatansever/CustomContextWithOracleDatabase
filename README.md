@@ -1,6 +1,6 @@
 **Oracle Veritabanında “Context”**
 
-Aşağıdaki soruların cevapları için medium makaleme buradan okuyabilirsiniz : https://medium.com/@ahmetvatansever/oracle-veritaban%C4%B1nda-context-2a87c5a90480
+Aşağıdaki soruların cevapları için medium makaleme buradan okuyabilirsiniz : https://medium.com/@ahmetvatansever/oracle-veritaban%C4%B1nda-context-8c9bd582a5da
 
 Oracle Database'de Context Nedir? </br>
 GLOBAL_CONTEXT nedir ? </br>
